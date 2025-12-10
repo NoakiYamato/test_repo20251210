@@ -2,3 +2,4 @@
 追加（develop）
 追加2（develop）
 コンフリクト対処（develop）
+コンフリクト対処p4merge（main）
